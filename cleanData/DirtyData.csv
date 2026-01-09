@@ -1,0 +1,5 @@
+order id,product,category,price,quantity
+1001, Laptop , Electronics ,55000.0,1.0
+1002, Phone , Electronics ,20000.0,2.0
+1006, Chair , Furniture ,7000.0,1.0
+1009, Pen , Stationery ,20.0,10.0

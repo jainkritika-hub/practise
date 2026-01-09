@@ -1,0 +1,12 @@
+Order ID , Product , Category , Price , Quantity
+1001, Laptop , Electronics ,55000,1
+1002, Phone , Electronics ,20000,2
+1003, Headphones , Electronics , abc ,1
+1004, Keyboard , Electronics ,1500,-1
+1005, Mouse , Electronics ,500,
+1006, Chair , Furniture ,7000,1
+1006, Chair , Furniture ,7000,1
+1007, Table , Furniture ,-3000,2
+1008, Bottle , Kitchen ,300, two
+1009, Pen , Stationery ,20,10
+1010, Notebook , Stationery , ,5

@@ -1,0 +1,4 @@
+order id,product,category,price,quantity
+1003, Headphones , Electronics ,,1.0
+1004, Keyboard , Electronics ,1500.0,-1.0
+1005, Mouse , Electronics ,500.0,
