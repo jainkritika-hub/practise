@@ -14,3 +14,10 @@ The goal of this practice is to strengthen my skills in **Python, Pandas, OS mod
 ---
 
 ## 📂 Folder Structure
+practice_project/
+├── raw_data/ # Original (dirty) CSV files
+├── clean_data/ # Cleaned and validated data
+├── rejected_data/ # Invalid or corrupted rows/files
+├── reports/ # Summary reports generated after processing
+├── main.py # Main Python automation script
+└── README.md # Project documentation
