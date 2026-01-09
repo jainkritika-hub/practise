@@ -32,3 +32,6 @@ for file in os.listdir(RAW):
         print(os.path.join(DIRTY,f"ganda data {file}"))
 
 
+print("Learning in progress")
+
+
